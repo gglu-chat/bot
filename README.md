@@ -1,5 +1,4 @@
-# bot
-gglu机器人实例。
+# gglu机器人实例
 
 聊天室ws地址：`wss://gglu.onrender.com/socket.io/`
 
